@@ -30,8 +30,8 @@
             "en-GB": "Fix for language inheritance in admin"
         },
         "description": {
-            "de-DE": "Dieses Plugin behebt den bekannten Bug in der Shopware-Admin-Oberfläche, bei dem die Sprachvererbung für Kategorien und CMS-Elemente bei der englischen Sprache bricht. Es stellt die korrekte Vererbung von Inhalten sicher und verhindert Datenverlust beim Bearbeiten von Kategorien in Nicht-Standardsprachen.",
-            "en-GB": "This plugin fixes the known bug in the Shopware admin interface where language inheritance breaks for categories and CMS elements when using the English language. It ensures correct inheritance of content and prevents data loss when editing categories in non-default languages."
+            "de-DE": "Behebt den Bug in der Shopware-Admin-Oberfläche, bei dem die Sprachvererbung für Kategorien und CMS-Elemente bei englischer Sprache bricht. Stellt die korrekte Vererbung sicher.",
+            "en-GB": "Fixes the bug in the Shopware admin where language inheritance breaks for categories and CMS elements in English. Ensures correct content inheritance."
         },
         "manufacturerLink": {
             "de-DE": "https://www.tgu-shop.com",
