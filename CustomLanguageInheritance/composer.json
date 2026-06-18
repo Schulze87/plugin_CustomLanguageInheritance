@@ -1,0 +1,21 @@
+{
+    "name": "custom/language-inheritance",
+    "description": "Fix for language inheritance bug in admin (Issue #10898)",
+    "version": "1.0.0",
+    "type": "shopware-platform-plugin",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "CustomLanguageInheritance\\": "src/"
+        }
+    },
+    "extra": {
+        "shopware-plugin-class": "CustomLanguageInheritance\\CustomLanguageInheritance",
+        "plugin-icon": null,
+        "copyright": "(c) TGU Shop",
+        "label": {
+            "de-DE": "Fix für Sprachvererbung im Admin",
+            "en-GB": "Fix for language inheritance in admin"
+        }
+    }
+}
