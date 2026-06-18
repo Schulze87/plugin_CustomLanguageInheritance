@@ -5,7 +5,8 @@
     "type": "shopware-platform-plugin",
     "license": "MIT",
     "require": {
-        "shopware/core": "~6.4.0 || ~6.5.0 || ~6.6.0 || ~6.7.0"
+        "shopware/core": "~6.7.0",
+        "shopware/administration": "~6.7.0"
     },
     "autoload": {
         "psr-4": {
