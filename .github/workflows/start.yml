@@ -29,6 +29,7 @@ jobs:
 
       - name: Build Extension
         run: |
+          export NODE_OPTIONS=--openssl-legacy-provider
           shopware-cli extension zip ./build/CustomLanguageInheritance --disable-git --verbose
 
       - name: Validate ZIP
